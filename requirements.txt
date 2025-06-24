@@ -1,0 +1,7 @@
+pandas
+numpy
+langchain
+langchain-community
+pypdf
+sentence-transformers
+chromadb
