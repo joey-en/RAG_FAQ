@@ -5,3 +5,9 @@ langchain-community
 pypdf
 sentence-transformers
 chromadb
+
+# in main
+mistralai 
+streamlit 
+faiss-cpu
+python-dotenv
